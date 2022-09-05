@@ -1,0 +1,6 @@
+.dashboard {
+    margin: 2rem auto;
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
